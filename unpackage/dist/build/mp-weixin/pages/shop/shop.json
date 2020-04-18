@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "商家",
+  "navigationBarBackgroundColor": "#008000",
+  "usingComponents": {
+    "header": "/pages/shop/components/header",
+    "tabs": "/pages/shop/components/tabs",
+    "order": "/pages/shop/components/order",
+    "message": "/pages/shop/components/message",
+    "introduce": "/pages/shop/components/introduce"
+  }
+}

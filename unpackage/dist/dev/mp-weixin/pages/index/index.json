@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "一叶点餐",
+  "usingComponents": {
+    "header": "/pages/index/components/header",
+    "preference": "/pages/index/components/preference",
+    "nearby": "/pages/index/components/nearby",
+    "sift": "/pages/index/components/sift",
+    "content": "/pages/index/components/content"
+  }
+}

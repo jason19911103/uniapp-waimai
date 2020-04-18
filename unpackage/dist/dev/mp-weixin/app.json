@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/order/order",
+    "pages/personal/personal",
+    "pages/shop/shop"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "一叶点餐",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "tabBar": {
+    "color": "#999794",
+    "selectedColor": "#4CD964",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "white",
+    "list": [
+      {
+        "iconPath": "static/img/tabbar/index-grey.png",
+        "selectedIconPath": "static/img/tabbar/index.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "iconPath": "static/img/tabbar/order-grey.png",
+        "selectedIconPath": "static/img/tabbar/order.png",
+        "pagePath": "pages/order/order",
+        "text": "订单"
+      },
+      {
+        "iconPath": "static/img/tabbar/personal-grey.png",
+        "selectedIconPath": "static/img/tabbar/personal.png",
+        "pagePath": "pages/personal/personal",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap73.json"
+}
